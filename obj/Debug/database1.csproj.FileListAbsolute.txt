@@ -1,0 +1,10 @@
+D:\dotnet project\database1\database1\obj\Debug\database1.csproj.AssemblyReference.cache
+D:\dotnet project\database1\database1\obj\Debug\database1.Form1.resources
+D:\dotnet project\database1\database1\obj\Debug\database1.Properties.Resources.resources
+D:\dotnet project\database1\database1\obj\Debug\database1.csproj.GenerateResource.cache
+D:\dotnet project\database1\database1\obj\Debug\database1.csproj.CoreCompileInputs.cache
+D:\dotnet project\database1\database1\bin\Debug\database1.exe.config
+D:\dotnet project\database1\database1\bin\Debug\database1.exe
+D:\dotnet project\database1\database1\bin\Debug\database1.pdb
+D:\dotnet project\database1\database1\obj\Debug\database1.exe
+D:\dotnet project\database1\database1\obj\Debug\database1.pdb
